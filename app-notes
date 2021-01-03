@@ -1,0 +1,28 @@
+√ Downloaded and extracted project files.
+
+📦 Using npm to install packages.
+
+\ Installing JavaScript dependencies.Terminate batch job (Y/N)? y
+
+C:\Users\pramodh>cd matrimony
+
+C:\Users\pramodh\matrimony>git init
+Initialized empty Git repository in C:/Users/pramodh/matrimony/.git/
+
+C:\Users\pramodh\matrimony>expo init matrimony
+√ Choose a template: » blank                 a minimal app as clean as an empty canvas
+√ Downloaded and extracted project files.
+
+📦 Using npm to install packages.
+
+√ Installed JavaScript dependencies.
+
+✅ Your project is ready!
+
+To run your project, navigate to the directory and run one of the following npm commands.
+
+- cd matrimony
+- npm start # you can open iOS, Android, or web from here, or run them directly with the commands below.
+- npm run android
+- npm run ios # requires an iOS device or macOS for access to an iOS simulator
+- npm run web
